@@ -1,0 +1,12 @@
+{
+  "name": "mobilestackii",
+  "displayName": "mobilestackii",
+  "expo": {
+    "name": "mobilestackii",
+    "slug": "mobilestackii",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
